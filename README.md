@@ -3,6 +3,16 @@
 
 `BGRem` is a machine learning-based package designed specifically for the removal of background noise from astronomical images. It leverages a state-of-the-art diffusion model combined with an attention U-net architecture, ensuring precise and reliable background removal.
 
+
+**Backbone of BGRem is an [Attention-UNet](https://arxiv.org/abs/1804.03999)**
+
+![attention-u-net](../master/ExampleIms/Attention_Unet_schematic.png)
+
+
+**An Example of BGRem on Optical Image**
+
+![merlicht](../master/ExampleIms/Real_image_demonstration.png)  
+
 ## Features
 
 - **Advanced Machine Learning Model**: Utilizes a diffusion model paired with an attention U-net, tailored for the nuanced needs of astronomical imaging.
