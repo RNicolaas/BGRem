@@ -6,12 +6,12 @@
 
 **Backbone of BGRem is an [Attention-UNet](https://arxiv.org/abs/1804.03999)**
 
-![attention-u-net](../master/ExampleIms/Attention_Unet_schematic.png)
+![attention-u-net](https://github.com/RNicolaas/BGRem/blob/main/ExampleIms/Attention_Unet_schematic.png)
 
 
 **An Example of BGRem on Optical Image**
 
-![merlicht](../master/ExampleIms/Real_image_demonstration.png)  
+![merlicht](https://github.com/RNicolaas/BGRem/blob/main/ExampleIms/Real_image_demonstration.png)  
 
 ## Features
 
